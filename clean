@@ -1,0 +1,4 @@
+#!/bin/sh
+#clean up 
+rm segment*ts
+rm playlist.m3u8*
